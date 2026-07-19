@@ -1,0 +1,6 @@
+{
+  "name": "Knowledge Catalog & OKF Architect",
+  "description": "Interactive visual architect, simulator, and AI code generator for Google Cloud Knowledge Catalog (formerly Dataplex) and Open Knowledge Format (OKF) with attribute-based access control (ABAC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
